@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/I:/2015/BACKUP/21082015/Arvind_Kumar_BIT_Mobile_project/Client_side/BITservices/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bg_login">#114316</color>
+    <color name="bg_main">#428bca</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="lbl_name">#333333</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/I:/2015/BACKUP/21082015/Arvind_Kumar_BIT_Mobile_project/Client_side/BITservices/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/I:/2015/BACKUP/21082015/Arvind_Kumar_BIT_Mobile_project/Client_side/BITservices/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">BIT roster services</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="do_task">Do task</string>
+    <string name="get_data">Refresh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="job_name_placeholder">Job name</string>
+    <string name="menu_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <!-- From: file:/I:/2015/BACKUP/21082015/Arvind_Kumar_BIT_Mobile_project/Client_side/BITservices/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
